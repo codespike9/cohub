@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/codespike9/cohub-complete-frontend.git
+[submodule "COHUB"]
+	path = COHUB
+	url = https://github.com/DharmarajJena/CoHUB.git
