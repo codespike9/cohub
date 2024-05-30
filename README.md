@@ -53,10 +53,31 @@ A project resorce sharing platform, primarily developed for building hardware pr
 ## Getting Started
 
 ### Prerequisites
-
 - Node.js and npm installed
 - MongoDB installed and running
 - Razorpay installed
   
 ## Screenshots
+- User Dashboard
 
+  ![Dashboard](https://github.com/codespike9/cohub/assets/113529989/0338c511-2293-42af-8322-33fa5b3c7c71)
+
+- Authentication using Google
+
+   ![login](https://github.com/codespike9/cohub/assets/113529989/a13cfef4-5d2a-42e5-a76f-9c9bbd65c2c2)
+
+- New Project
+
+  ![start_project](https://github.com/codespike9/cohub/assets/113529989/311cbdfe-cfbd-4705-b5b7-ad237a3fecb6)
+
+- Project Details
+
+  ![project_details](https://github.com/codespike9/cohub/assets/113529989/62b56fd7-efbc-4e29-bc39-c54d9441514d)
+    
+- Product Listing
+
+  ![product_listing](https://github.com/codespike9/cohub/assets/113529989/e498f19c-ad7d-4b9a-a552-277a3540cd9f)
+
+## Contact
+
+E-Mail : dharmarajjena694@gmail.com
